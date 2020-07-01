@@ -1,2 +1,2 @@
 # LeetCode
-Sharing the solutions and some thoughts of LeetCode problems.
+This repository is to share the solutions and some personal thoughts of LeetCode programming problems.
