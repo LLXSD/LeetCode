@@ -46,7 +46,7 @@ revenue_0[i]=max(revenue_0[i.left],revenue_1[i.left])+max(revenue_0[i.right],rev
 # 进一步思考
 如果这道题目要求输出被打劫的房舍的单个的价值，应该怎么办？
 
-添加方法df1，自上而下从根节点开始遍历二叉树，打印相关价值信息：
+添加方法dfs1，自上而下从根节点开始遍历二叉树，打印相关价值信息：
 
 ```cpp
 void dfs1(TreeNode* o, int flag) {
