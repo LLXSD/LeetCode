@@ -43,6 +43,27 @@ revenue_0[i]=max(revenue_0[i.left],revenue_1[i.left])+max(revenue_0[i.right],rev
 
 在学习官方代码时，存在疑问的点在于哈希表如何保证映射不冲突，这部分知识将会在调查学习后补充在这里。
 
+# 进一步思考
+如果这道题目要求输出被打劫的房舍的单个的价值，应该怎么办？
+
+添加方法df1，自上而下从根节点开始遍历二叉树，打印相关价值信息：
+
+```cpp
+void dfs1(TreeNode* o, int flag) {
+        if (!o) {
+            return;
+        }
+        if(f[o]>g[o] && flag==0){
+            cout<<o->val<<endl;
+            dfs1(o->left,1);
+            dfs1(o->right,1);
+        }else{
+            dfs1(o->left,0);
+            dfs1(o->right,0);
+        }
+    }
+```
+
 # 提交代码
 ```cpp
 /**
