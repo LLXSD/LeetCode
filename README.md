@@ -2,8 +2,7 @@
 This repository is to share the solutions and some personal thoughts of LeetCode programming problems.
 
 ### 双指针
-[80.删除有序数组中的重复项II](/80.删除有序数组中的重复项 II.md)
-
+<a href="/80.删除有序数组中的重复项 II.md">80.删除有序数组中的重复项II/README.md</a>
 ### 链表
 
 
