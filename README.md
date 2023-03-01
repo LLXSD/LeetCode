@@ -4,7 +4,13 @@ This repository is to share the solutions and some personal thoughts of LeetCode
 ### 双指针
 <a href="/80.删除有序数组中的重复项 II.md">80.删除有序数组中的重复项II</a>
 ### 链表
+<a href="/148.排序链表.md">148.排序链表</a>
 
+<a href="/234.回文链表.md">234.回文链表</a>
+
+<a href="/328.奇偶链表.md">328.奇偶链表</a>
+
+<a href="/82. 删除排序链表中的重复元素 II.md">82. 删除排序链表中的重复元素 II</a>
 
 ### 排序
 
