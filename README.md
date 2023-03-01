@@ -34,7 +34,7 @@ This repository is to share the solutions and some personal thoughts of LeetCode
 
 
 ### 并查集
-
+<a href="/547.省份数量.md">547.省份数量</a>
 
 ### 哈希表
 
