@@ -40,3 +40,4 @@ This repository is to share the solutions and some personal thoughts of LeetCode
 
 
 ### 二分查找
+<a href="/4.寻找两个正序数组的中位数.md">4.寻找两个正序数组的中位数</a>
