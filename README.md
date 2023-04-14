@@ -13,13 +13,13 @@ This repository is to share the solutions and some personal thoughts of LeetCode
 <a href="/82. 删除排序链表中的重复元素 II.md">82. 删除排序链表中的重复元素 II</a>
 
 ### 排序
-<a href="/剑指 Offer 51. 数组中的逆序对.md">剑指 Offer 51. 数组中的逆序对</a>
+<a href="/排序/剑指 Offer 51. 数组中的逆序对.md">剑指 Offer 51. 数组中的逆序对</a>
 
-<a href="/315. 计算右侧小于当前元素的个数.md">315. 计算右侧小于当前元素的个数</a>
+<a href="/排序/315. 计算右侧小于当前元素的个数.md">315. 计算右侧小于当前元素的个数</a>
 
-<a href="/334. 递增的三元子序列.md">334. 递增的三元子序列</a>
+<a href="/排序/334. 递增的三元子序列.md">334. 递增的三元子序列</a>
 
-<a href="/179. 最大数.md">179. 最大数</a>
+<a href="/排序/179. 最大数.md">179. 最大数</a>
 
 ### 堆
 <a href="/堆/215. 数组中的第K个最大元素.md">215. 数组中的第K个最大元素</a>
