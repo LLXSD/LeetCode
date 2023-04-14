@@ -22,15 +22,15 @@ This repository is to share the solutions and some personal thoughts of LeetCode
 <a href="/179. 最大数.md">179. 最大数</a>
 
 ### 堆
-<a href="/215. 数组中的第K个最大元素.md">215. 数组中的第K个最大元素</a>
+<a href="/堆/215. 数组中的第K个最大元素.md">215. 数组中的第K个最大元素</a>
 
-<a href="/剑指 Offer 41. 数据流中的中位数.md">剑指 Offer 41. 数据流中的中位数</a>
+<a href="/堆/剑指 Offer 41. 数据流中的中位数.md">剑指 Offer 41. 数据流中的中位数</a>
 
-<a href="/23. 合并K个升序链表.md">23. 合并K个升序链表</a>
+<a href="/堆/23. 合并K个升序链表.md">23. 合并K个升序链表</a>
 
-<a href="/239. 滑动窗口最大值.md">239. 滑动窗口最大值</a>
+<a href="/堆/239. 滑动窗口最大值.md">239. 滑动窗口最大值</a>
 
-<a href="/1052. 爱生气的书店老板.md">1052. 爱生气的书店老板</a>
+<a href="/堆/1052. 爱生气的书店老板.md">1052. 爱生气的书店老板</a>
 ### 栈
 
 
