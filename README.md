@@ -32,7 +32,17 @@ This repository is to share the solutions and some personal thoughts of LeetCode
 
 <a href="/堆/1052. 爱生气的书店老板.md">1052. 爱生气的书店老板</a>
 ### 栈
+<a href="/栈/剑指 Offer 31. 栈的压入、弹出序列.md">剑指 Offer 31. 栈的压入、弹出序列</a>
 
+<a href="/栈/456. 132 模式.md">456. 132 模式</a>
+
+<a href="/栈/503. 下一个更大元素 II.md">503. 下一个更大元素 II</a>
+
+<a href="/栈/227. 基本计算器II.md">227. 基本计算器II</a>
+
+<a href="/栈/224. 基本计算器.md">224. 基本计算器</a>
+
+<a href="/栈/150.逆波兰表达式求值.md">150.逆波兰表达式求值</a>
 
 ### 树
 
