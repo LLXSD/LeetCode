@@ -49,7 +49,7 @@ This repository is to share the solutions and some personal thoughts of LeetCode
 
 <a href="/树/297. 二叉树的序列化与反序列化.md">297. 二叉树的序列化与反序列化</a>
 
-<a href="/树/331. 验证二叉树的前序序列化.md">331. 验证二叉树的前序序列化 </a>
+<a href="/树/331. 验证二叉树的前序序列化.md">331. 验证二叉树的前序序列化</a>
 
 <a href="/树/剑指 Offer 33. 二叉搜索树的后序遍历序列.md">剑指 Offer 33. 二叉搜索树的后序遍历序列</a>
 
